@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mypl.dir/src/main.cpp.o CMakeFiles/mypl.dir/src/lexer.cpp.o CMakeFiles/mypl.dir/src/parser.cpp.o CMakeFiles/mypl.dir/src/codegen.cpp.o  -o mypl 
